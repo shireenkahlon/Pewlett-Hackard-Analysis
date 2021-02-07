@@ -11,6 +11,7 @@ Approximately half of the people retiring/the new jobs opening are “Senior Eng
 * All of the title groups at PH have positions opening up - some more than others, as seen in the image above.
 * There are fewer people going into mentorships than people retiring. As seen in the images below, there are 90,398 people retiring; in other words, 90,398 open positions to be filled with new hires.
 ![open hiring positions - PH](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/open%20hiring%20positions%20PH.png)
+
 However, as seen below, there are only 1,549 people going into mentorships. 
 ![mentorship positions - PH](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/mentorship%20positions%20PH.png)
 * Depending on the duties of the manager, this position may be one that needs less focus on when hiring considering only two manager spots need to be filled. 
