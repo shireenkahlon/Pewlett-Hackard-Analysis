@@ -6,6 +6,7 @@ The purpose of this project is to provide Pewlett-Hackard (PH) with the data reg
 
 ## Results
 * While analyzing the results, I came across a few points worth noting. These points have been listed below:
+
 Approximately half of the people retiring/the new jobs opening are “Senior Engineer” and “Senior Staff” positions. The table below shows the positions grouped by title.
 
 ![titles table - PH](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/titles%20table%20-%20PH%20challenge.png)
