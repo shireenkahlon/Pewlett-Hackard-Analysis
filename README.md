@@ -2,7 +2,7 @@
 This project will look into how many job positions are open vs. how many people are retiring at Pewlett-Hackard. The analysis will be conducted using PostGre SQL and pgAdmin
 
 ## Overview
-The purpose of this project is to provide Pewlett-Hackard (PH) with the data regarding how many jobs they need to fill for the employees who plan to retire within the calendar year. For every employee who does retire, PH will fill up each position. In addition, some people who are nearing retirement age but may not be there necessarily may enter into a mentorship program. This project will also provide PH with the data of how many employees they should expect to bring into this mentorship program. 
+The purpose of this project is to provide Pewlett-Hackard (PH) with the data regarding how many jobs they need to fill for the employees who plan to retire within the calendar year. For every employee who does retire, PH will fill up each position. In addition, some people who are nearing retirement age but not at that specific age may enter into a mentorship program. This project will also provide PH with the data of how many employees they should expect to bring into this mentorship program. 
 
 ## Results
 * While analyzing the results, I came across a few points worth noting. These points have been listed below:
