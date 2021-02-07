@@ -7,6 +7,7 @@ The purpose of this project is to provide Pewlett-Hackard (PH) with the data of 
 ## Results
 * While analyzing the results, I came across a few points worth noting. These points have been listed below:
 Approximately half of the people retiring/the new jobs opening are “Senior Engineer” and “Senior Staff” positions. The table below shows the positions grouped by title.
+
 ![titles table - PH](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/titles%20table%20-%20PH%20challenge.png)
 * All of the title groups at PH have positions opening up - some more than others, as seen in the image above.
 * There are fewer people going into mentorships than people retiring. As seen in the images below, there are 90,398 people retiring; in other words, 90,398 open positions to be filled with new hires.
