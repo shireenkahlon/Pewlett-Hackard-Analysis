@@ -5,9 +5,9 @@ This project will look into how many job positions are open versus how many peop
 The purpose of this project is to provide Pewlett-Hackard (PH) with the data regarding how many jobs they need to fill for the employees who plan to retire within the calendar year. For every employee who does retire, PH will fill up each position. In addition, some people who are nearing retirement age but not at that specific age may enter into a mentorship program. This project will also provide PH with the data of how many employees they should expect to bring into this mentorship program. 
 
 ## Results
-* While analyzing the results, I came across a few points worth noting. These points have been listed below:
+While analyzing the results, I came across a few points worth noting. These points have been listed below:
 
-Over half of the people retiring/the new jobs opening are “Senior Engineer” and “Senior Staff” positions. The table below shows the positions grouped by title.
+* Over half of the people retiring/the new jobs opening are “Senior Engineer” and “Senior Staff” positions. The table below shows the positions grouped by title.
 
 ![Titles_Table](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/Titles_table.png)
 * All of the title groups at PH have positions opening up - some more than others, as seen in the image above.
