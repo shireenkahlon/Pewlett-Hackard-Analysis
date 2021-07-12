@@ -9,13 +9,13 @@ While analyzing the results, I came across a few points worth noting. These poin
 
 * Over half of the new jobs that will be opening are for “Senior Engineer” and “Senior Staff” positions. The table below shows the positions grouped by title.
 
-![Titles_Table](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/Titles_table.png)
+![Titles_Table](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/Screenshots/Titles_table.png)
 * All of the title groups at PH have positions opening up - some more than others, as seen in the image above.
 * There are fewer people going into mentorships than people retiring. As seen in the images below, there are 72,458 people retiring; in other words, 72,458 open positions to be filled with new hires.
-![open_hiring_positions](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/open%20hiring%20positions%20PH.png)
+![open_hiring_positions](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/Screenshots/open_hiring_positions.png)
 
 However, as seen below, there are only 1,549 people going into mentorships. 
-![mentorship positions - PH](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/open_hiring_positions.png)
+![mentorship positions - PH](https://github.com/shireenkahlon/Pewlett-Hackard-Analysis/blob/main/Screenshots/mentorship%20positions%20PH.png)
 * Depending on the duties of the manager, this position may be one that needs less focus on when hiring considering only two manager spots need to be filled. 
 
 ## Summary
